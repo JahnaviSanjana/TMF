@@ -1,2 +1,2 @@
 
-Displaying only the filtered countries while giving the input using events. 
+Task 1: Displaying only the filtered countries while giving input by using events
